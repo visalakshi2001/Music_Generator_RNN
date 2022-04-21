@@ -1,7 +1,7 @@
-music21==7.3.1
+music21
 streamlit==0.82.0
 scipy==1.4.1
-numpy==1.21.2
-pretty_midi==0.2.9
+numpy
+pretty_midi
 keras==2.6.0
 tensorflow-cpu
