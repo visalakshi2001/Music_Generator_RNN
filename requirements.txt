@@ -5,4 +5,4 @@ numpy
 pretty_midi
 keras==2.6.0
 tensorflow-cpu
-fluidsynth-2.2.6.tar.gz
+-f fluidsynth-2.2.6.tar.gz
