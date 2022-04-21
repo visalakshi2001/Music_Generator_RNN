@@ -1,5 +1,5 @@
 music21
-streamlit==0.82.0
+streamlit==0.84.0
 scipy==1.4.1
 numpy
 pretty_midi
