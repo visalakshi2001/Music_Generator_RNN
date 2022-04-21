@@ -5,4 +5,4 @@ numpy
 pretty_midi
 keras==2.6.0
 tensorflow-cpu
-git@github.com:nwhitehead/pyfluidsynth.git
+pyfluidsynth
