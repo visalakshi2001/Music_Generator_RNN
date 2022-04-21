@@ -5,3 +5,4 @@ numpy
 pretty_midi
 keras==2.6.0
 tensorflow-cpu
+pyfluidsynth==2.1.0
