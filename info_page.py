@@ -26,10 +26,9 @@ def info():
                 <li>Given a specific track composed by a human, generate additional tracks to accompany it</li>\
                 <li>Device a hybrid model for polyphonic music generation consisting of several instruments.</li>\
                 <li>Creating a lyrically based generator for complex musical patterns.</li>\
-                <li>This project can be accessed on the below mentioned link.</li>\
                 </ol>", unsafe_allow_html = True)
 
-    
+
 
 
 
