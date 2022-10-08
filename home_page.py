@@ -17,7 +17,7 @@ def abstract():
 
     st.markdown("**Keywords:** RNN, music generator, piano, deep learning")
     st.subheader("Listen to the best sample yet: (7000 iteration)")
-    with st.beta_columns(2)[0]:
+    with st.columns(2)[0]:
         st.audio(open("./music_samples/home_demo.mp3", 'rb').read(), format='audio/mp3')
     st.markdown('---')
     st.caption("made by Dhruvi Shah & Visalakshi Iyer @Kaizen2k22")    
