@@ -12,7 +12,7 @@ def music():
 
     st.header("🎹 Audio samples to feed the generator model")
 
-    col1, col2 = st.beta_columns(2)
+    col1, col2 = st.columns(2)
 
     if "classical" not in st.session_state:
         st.session_state["classical"] = True
