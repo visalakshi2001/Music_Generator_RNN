@@ -1,8 +1,8 @@
 music21
-streamlit==1.11.1
-scipy==1.4.1
+streamlit==1.30
+scipy
 numpy
 pretty_midi
-keras==2.6.0
+keras
 tensorflow-cpu
 -f fluidsynth-2.2.6.tar.gz
